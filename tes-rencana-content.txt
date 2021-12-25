@@ -2,6 +2,8 @@ rencana content tes
 - Create javascript
   * ES6
   * Framework javascript
-- Struktur data dasar
+    ` Angular
+    ` React
 - Create php framework
+  * Laravel
 - Create vlog
